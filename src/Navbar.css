@@ -1,0 +1,34 @@
+
+
+.navbar {
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    padding-left: 20%;
+    padding-right: 20%;
+
+    
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+    
+  }
+  
+  li {
+    margin-right: 10%;
+    margin-left: 10%;
+    color: white;
+    cursor: pointer;
+  }
+  
+  li.active {
+    font-weight: bold;
+    color: #9CFF2E;
+  }
+
+  li:hover {
+    color: #9CFF2E;
+  }

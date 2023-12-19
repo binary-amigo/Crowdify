@@ -1,6 +1,10 @@
-.App {
+
+
+/* .App {
   text-align: center;
 }
+
+
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +39,29 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+img {
+  width: 200px;
+  padding-left: 100px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+body {
+  scroll-behavior: smooth;
+}
+
+.logo {
+  display: flex;
+}
+
+.logoimg {
+  padding-top: 15px;
+  padding-left: 10%;
+  padding-right: 10px;
+  
+  width: 50px;
+  height: 50px;
+  display: inline;
 }

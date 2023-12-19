@@ -1,0 +1,8 @@
+.background-container {
+    background-image: url("./assets/slider21.jpg");
+    background-size: cover; /* You can adjust this based on your needs */
+    background-position: center; /* You can adjust this based on your needs */
+    z-index: 999;
+    /* Additional styling for the container */
+  }
+  

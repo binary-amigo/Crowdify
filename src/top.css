@@ -1,0 +1,51 @@
+.text1 {
+    margin-left: 80px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+p {
+    margin-top: 0;
+}
+
+.h11 {
+    display: inline;
+}
+
+h1 {
+    margin-bottom: 0;
+    font-size: 3vw;
+    display: inline;
+    padding: 1px;
+    background-color: #9CFF2E;
+}
+
+.span11 {
+    padding: 1px;
+    color: white;
+}
+
+.span21 {
+    padding: 1px;
+    color: white;
+    background-color: black;
+}
+
+h2 {
+    font-weight: 1000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    padding-left: 0;
+    margin-bottom: 0;
+    padding-bottom: 15px;
+    color: #334d15;
+}
+
+h2:hover {
+    color: black;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
